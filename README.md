@@ -17,9 +17,6 @@ Built an interactive Power BI dashboard to analyze online retail sales.
 - Total Quantity
 - Unique Customers
 
-## Dashboard
-(Add your screenshot)
-
 ## Business Insights
 - United Kingdom generated the highest revenue.
 - Most sales came from a small number of countries.

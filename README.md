@@ -1,6 +1,14 @@
 # Online-Retail-Sales-Analysis
 Power BI dashborad analyzing online retail sales using SQL and DAX
-# Online Retail Sales Analysis Dashboard
+## Dashbord preview
+### Dashbord Page 1
+(Dashboard Page 1)
+(dashboard-page1.png)
+### Dashboard Page 2 
+(Dashboard Page 2)
+(dashboard-page2.png)
+
+# Online-Retail-Sales-Analysis Dashboard
 
 ## Project Overview
 Built an interactive Power BI dashboard to analyze online retail sales.
